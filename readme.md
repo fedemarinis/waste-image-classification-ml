@@ -43,7 +43,7 @@ Image-based classification systems can support:
 
 ### Dataset Overview
 
-![Dataset Classes](Images/dataset_classes.png)
+![Dataset Classes](Images/Dataset_classes.png)
 
 The dataset includes multiple material categories such as plastic, metal, paper, and organic waste, capturing real-world variability in object appearance.
 
@@ -57,7 +57,7 @@ A strong **class imbalance** is present, influencing model behavior and performa
 
 The dataset undergoes a structured preprocessing workflow.
 
-![Data Preprocessing Pipeline](Images/data_preprocessing.png)
+![Data Preprocessing Pipeline](Images/Data_preprocessing.png)
 
 The pipeline includes:
 - RGB conversion  
@@ -72,7 +72,7 @@ The pipeline includes:
 
 The project follows a comparative modeling approach combining classical machine learning and deep learning.
 
-![Methodology](Images/methodology.png)
+![Methodology](Images/Methodology.png)
 
 Two main modeling strategies are implemented:
 - **SVM with PCA** as a baseline  
@@ -116,7 +116,7 @@ Same architecture trained on balanced augmented data.
 
 ## 📈 Model Performance Evaluation
 
-![Model Performance](Images/model_performance.png)
+![Model Performance](Images/Models_performance evaluation.png)
 
 The evaluation highlights differences in performance across models and classes.
 
