@@ -43,7 +43,7 @@ Image-based classification systems can support:
 
 ### Dataset Overview
 
-![Dataset Classes](Images/Dataset classes.png)
+![Dataset Classes](Images/Dataset-classes.png)
 
 The dataset includes multiple material categories such as plastic, metal, paper, and organic waste, capturing real-world variability in object appearance.
 
@@ -57,7 +57,7 @@ A strong **class imbalance** is present, influencing model behavior and performa
 
 The dataset undergoes a structured preprocessing workflow.
 
-![Data Preprocessing Pipeline](Images/Data preprocessing.png)
+![Data Preprocessing Pipeline](Images/Data-preprocessing.png)
 
 The pipeline includes:
 - RGB conversion  
@@ -116,7 +116,7 @@ Same architecture trained on balanced augmented data.
 
 ## 📈 Model Performance Evaluation
 
-![Model Performance](Images/Models performance evaluation.png)
+![Model Performance](Images/Models-performance-evaluation.png)
 
 The evaluation highlights differences in performance across models and classes.
 
