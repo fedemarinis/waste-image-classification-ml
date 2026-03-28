@@ -1,1 +1,0 @@
-# waste-image-classification-ml
